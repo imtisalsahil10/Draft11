@@ -1,0 +1,39 @@
+{
+  "name": "football-auction-backend",
+  "version": "1.0.0",
+  "description": "Multiplayer Football Auction Game - Backend Server",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js",
+    "seed": "node seed.js",
+    "import:players": "node players/import-cli.js",
+    "import:fut23": "node players/fut23-import-cli.js --dry-run",
+    "import:fut23:confirm": "node players/fut23-import-cli.js --confirm",
+    "import:local-catalogue": "node players/local-catalogue-cli.js",
+    "test": "node --test tests/*.test.js",
+    "test:load": "node load/multi-room-load.js"
+  },
+  "keywords": [
+    "football",
+    "auction",
+    "game",
+    "socket.io",
+    "multiplayer"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "exceljs": "^4.4.0",
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0",
+    "mongoose": "^8.0.0",
+    "socket.io": "^4.7.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}

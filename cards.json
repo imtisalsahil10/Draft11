@@ -1,0 +1,1363 @@
+[
+  {
+    "id": "fifa_158023",
+    "name": "L. Messi",
+    "position": "CF",
+    "nationality": "Argentina",
+    "club": "FC Barcelona",
+    "league": "La Liga",
+    "stats": {
+      "overall": 93,
+      "pace": 93,
+      "shooting": 89,
+      "passing": 86,
+      "dribbling": 96,
+      "defense": 27,
+      "physical": 63
+    },
+    "category": "LEGENDARY",
+    "basePrice": 25,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 158023,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Lionel Andrés Messi Cuccittini",
+    "age": 27,
+    "potential": 95
+  },
+  {
+    "id": "fifa_20801",
+    "name": "Cristiano Ronaldo",
+    "position": "LW  LM",
+    "nationality": "Portugal",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "stats": {
+      "overall": 92,
+      "pace": 93,
+      "shooting": 93,
+      "passing": 81,
+      "dribbling": 91,
+      "defense": 32,
+      "physical": 79
+    },
+    "category": "LEGENDARY",
+    "basePrice": 25,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 20801,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Cristiano Ronaldo dos Santos Aveiro",
+    "age": 29,
+    "potential": 92,
+    "alternatePositions": [
+      "LM"
+    ]
+  },
+  {
+    "id": "fifa_9014",
+    "name": "A. Robben",
+    "position": "RM  LM,RW",
+    "nationality": "Netherlands",
+    "club": "FC Bayern München",
+    "league": "Bundesliga",
+    "stats": {
+      "overall": 90,
+      "pace": 93,
+      "shooting": 86,
+      "passing": 83,
+      "dribbling": 92,
+      "defense": 32,
+      "physical": 64
+    },
+    "category": "LEGENDARY",
+    "basePrice": 25,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 9014,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Arjen Robben",
+    "age": 30,
+    "potential": 90,
+    "alternatePositions": [
+      "LM",
+      "RW"
+    ]
+  },
+  {
+    "id": "fifa_41236",
+    "name": "Z. Ibrahimović",
+    "position": "ST",
+    "nationality": "Sweden",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "stats": {
+      "overall": 90,
+      "pace": 76,
+      "shooting": 91,
+      "passing": 81,
+      "dribbling": 86,
+      "defense": 34,
+      "physical": 86
+    },
+    "category": "LEGENDARY",
+    "basePrice": 25,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 41236,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Zlatan Ibrahimović",
+    "age": 32,
+    "potential": 90
+  },
+  {
+    "id": "fifa_167495",
+    "name": "M. Neuer",
+    "position": "GK",
+    "nationality": "Germany",
+    "club": "FC Bayern München",
+    "league": "Bundesliga",
+    "stats": {
+      "overall": 90
+    },
+    "category": "LEGENDARY",
+    "basePrice": 25,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 167495,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Manuel Neuer",
+    "age": 28,
+    "potential": 90,
+    "goalkeeping": {
+      "diving": 87,
+      "handling": 85,
+      "kicking": 92,
+      "reflexes": 86,
+      "speed": 60,
+      "positioning": 90
+    }
+  },
+  {
+    "id": "fifa_41",
+    "name": "Iniesta",
+    "position": "CM  LW",
+    "nationality": "Spain",
+    "club": "FC Barcelona",
+    "league": "La Liga",
+    "stats": {
+      "overall": 89,
+      "pace": 75,
+      "shooting": 72,
+      "passing": 89,
+      "dribbling": 91,
+      "defense": 59,
+      "physical": 63
+    },
+    "category": "RARE",
+    "basePrice": 15,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 41,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Andrés Iniesta Luján",
+    "age": 30,
+    "potential": 89,
+    "alternatePositions": [
+      "LW"
+    ]
+  },
+  {
+    "id": "fifa_176580",
+    "name": "L. Suárez",
+    "position": "ST  CF",
+    "nationality": "Uruguay",
+    "club": "FC Barcelona",
+    "league": "La Liga",
+    "stats": {
+      "overall": 89,
+      "pace": 83,
+      "shooting": 87,
+      "passing": 79,
+      "dribbling": 88,
+      "defense": 42,
+      "physical": 79
+    },
+    "category": "RARE",
+    "basePrice": 15,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 176580,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Luis Alberto Suárez Díaz",
+    "age": 27,
+    "potential": 91,
+    "alternatePositions": [
+      "CF"
+    ]
+  },
+  {
+    "id": "fifa_7826",
+    "name": "R. van Persie",
+    "position": "ST",
+    "nationality": "Netherlands",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "stats": {
+      "overall": 88,
+      "pace": 74,
+      "shooting": 90,
+      "passing": 82,
+      "dribbling": 83,
+      "defense": 33,
+      "physical": 68
+    },
+    "category": "RARE",
+    "basePrice": 15,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 7826,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Robin van Persie",
+    "age": 30,
+    "potential": 88
+  },
+  {
+    "id": "fifa_121944",
+    "name": "B. Schweinsteiger",
+    "position": "CM  CDM",
+    "nationality": "Germany",
+    "club": "FC Bayern München",
+    "league": "Bundesliga",
+    "stats": {
+      "overall": 88,
+      "pace": 61,
+      "shooting": 81,
+      "passing": 85,
+      "dribbling": 82,
+      "defense": 78,
+      "physical": 80
+    },
+    "category": "RARE",
+    "basePrice": 15,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 121944,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Bastian Schweinsteiger",
+    "age": 29,
+    "potential": 88,
+    "alternatePositions": [
+      "CDM"
+    ]
+  },
+  {
+    "id": "fifa_156616",
+    "name": "F. Ribéry",
+    "position": "LM",
+    "nationality": "France",
+    "club": "FC Bayern München",
+    "league": "Bundesliga",
+    "stats": {
+      "overall": 88,
+      "pace": 89,
+      "shooting": 78,
+      "passing": 85,
+      "dribbling": 92,
+      "defense": 29,
+      "physical": 62
+    },
+    "category": "RARE",
+    "basePrice": 15,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 156616,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Franck Bilal Ribéry",
+    "age": 31,
+    "potential": 88
+  },
+  {
+    "id": "fifa_167397",
+    "name": "Falcao",
+    "position": "ST",
+    "nationality": "Colombia",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "stats": {
+      "overall": 88,
+      "pace": 77,
+      "shooting": 86,
+      "passing": 64,
+      "dribbling": 81,
+      "defense": 40,
+      "physical": 73
+    },
+    "category": "RARE",
+    "basePrice": 15,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 167397,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Radamel Falcao García Zárate",
+    "age": 28,
+    "potential": 88
+  },
+  {
+    "id": "fifa_183277",
+    "name": "E. Hazard",
+    "position": "LM  RM",
+    "nationality": "Belgium",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "stats": {
+      "overall": 88,
+      "pace": 90,
+      "shooting": 82,
+      "passing": 84,
+      "dribbling": 91,
+      "defense": 32,
+      "physical": 64
+    },
+    "category": "RARE",
+    "basePrice": 15,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 183277,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Eden Hazard",
+    "age": 23,
+    "potential": 90,
+    "alternatePositions": [
+      "RM"
+    ]
+  },
+  {
+    "id": "fifa_121939",
+    "name": "P. Lahm",
+    "position": "CDM  RB,CM",
+    "nationality": "Germany",
+    "club": "FC Bayern München",
+    "league": "Bundesliga",
+    "stats": {
+      "overall": 87,
+      "pace": 76,
+      "shooting": 56,
+      "passing": 84,
+      "dribbling": 83,
+      "defense": 87,
+      "physical": 67
+    },
+    "category": "RARE",
+    "basePrice": 15,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 121939,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Philipp Lahm",
+    "age": 30,
+    "potential": 87,
+    "alternatePositions": [
+      "RB",
+      "CM"
+    ]
+  },
+  {
+    "id": "fifa_155862",
+    "name": "Sergio Ramos",
+    "position": "CB",
+    "nationality": "Spain",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "stats": {
+      "overall": 87,
+      "pace": 79,
+      "shooting": 61,
+      "passing": 71,
+      "dribbling": 66,
+      "defense": 87,
+      "physical": 82
+    },
+    "category": "RARE",
+    "basePrice": 15,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 155862,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Sergio Ramos García",
+    "age": 28,
+    "potential": 87
+  },
+  {
+    "id": "fifa_164240",
+    "name": "Thiago Silva",
+    "position": "CB",
+    "nationality": "Brazil",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "stats": {
+      "overall": 87,
+      "pace": 78,
+      "shooting": 57,
+      "passing": 72,
+      "dribbling": 72,
+      "defense": 90,
+      "physical": 80
+    },
+    "category": "RARE",
+    "basePrice": 15,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 164240,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Thiago Emiliano da Silva",
+    "age": 29,
+    "potential": 87
+  },
+  {
+    "id": "fifa_168542",
+    "name": "David Silva",
+    "position": "LM  CAM",
+    "nationality": "Spain",
+    "club": "Manchester City",
+    "league": "Premier League",
+    "stats": {
+      "overall": 87,
+      "pace": 76,
+      "shooting": 77,
+      "passing": 86,
+      "dribbling": 89,
+      "defense": 33,
+      "physical": 57
+    },
+    "category": "RARE",
+    "basePrice": 15,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 168542,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "David Josué Jiménez Silva",
+    "age": 28,
+    "potential": 87,
+    "alternatePositions": [
+      "CAM"
+    ]
+  },
+  {
+    "id": "fifa_173731",
+    "name": "G. Bale",
+    "position": "RM  RW",
+    "nationality": "Wales",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "stats": {
+      "overall": 87,
+      "pace": 94,
+      "shooting": 83,
+      "passing": 83,
+      "dribbling": 84,
+      "defense": 63,
+      "physical": 81
+    },
+    "category": "RARE",
+    "basePrice": 15,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 173731,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Gareth Frank Bale",
+    "age": 24,
+    "potential": 91,
+    "alternatePositions": [
+      "RW"
+    ]
+  },
+  {
+    "id": "fifa_177003",
+    "name": "L. Modrić",
+    "position": "CM  CDM",
+    "nationality": "Croatia",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "stats": {
+      "overall": 87,
+      "pace": 76,
+      "shooting": 74,
+      "passing": 85,
+      "dribbling": 89,
+      "defense": 71,
+      "physical": 70
+    },
+    "category": "RARE",
+    "basePrice": 15,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 177003,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Luka Modrić",
+    "age": 28,
+    "potential": 87,
+    "alternatePositions": [
+      "CDM"
+    ]
+  },
+  {
+    "id": "fifa_188545",
+    "name": "R. Lewandowski",
+    "position": "ST  CF",
+    "nationality": "Poland",
+    "club": "FC Bayern München",
+    "league": "Bundesliga",
+    "stats": {
+      "overall": 87,
+      "pace": 80,
+      "shooting": 84,
+      "passing": 74,
+      "dribbling": 85,
+      "defense": 39,
+      "physical": 78
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 188545,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Robert Lewandowski",
+    "age": 25,
+    "potential": 89,
+    "alternatePositions": [
+      "CF"
+    ]
+  },
+  {
+    "id": "fifa_10535",
+    "name": "Xavi",
+    "position": "CM",
+    "nationality": "Spain",
+    "club": "FC Barcelona",
+    "league": "La Liga",
+    "stats": {
+      "overall": 86,
+      "pace": 66,
+      "shooting": 72,
+      "passing": 91,
+      "dribbling": 85,
+      "defense": 60,
+      "physical": 58
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 10535,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Xavier Hernández Creus",
+    "age": 34,
+    "potential": 86
+  },
+  {
+    "id": "fifa_20289",
+    "name": "Y. Touré",
+    "position": "CM  CDM",
+    "nationality": "Ivory Coast",
+    "club": "Manchester City",
+    "league": "Premier League",
+    "stats": {
+      "overall": 86,
+      "pace": 76,
+      "shooting": 82,
+      "passing": 81,
+      "dribbling": 79,
+      "defense": 80,
+      "physical": 90
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 20289,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Gnégnéri Yaya Touré",
+    "age": 31,
+    "potential": 86,
+    "alternatePositions": [
+      "CDM"
+    ]
+  },
+  {
+    "id": "fifa_54050",
+    "name": "W. Rooney",
+    "position": "ST  CF,CAM",
+    "nationality": "England",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "stats": {
+      "overall": 86,
+      "pace": 76,
+      "shooting": 87,
+      "passing": 80,
+      "dribbling": 83,
+      "defense": 44,
+      "physical": 87
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 54050,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Wayne Mark Rooney",
+    "age": 28,
+    "potential": 86,
+    "alternatePositions": [
+      "CF",
+      "CAM"
+    ]
+  },
+  {
+    "id": "fifa_139720",
+    "name": "V. Kompany",
+    "position": "CB",
+    "nationality": "Belgium",
+    "club": "Manchester City",
+    "league": "Premier League",
+    "stats": {
+      "overall": 86,
+      "pace": 73,
+      "shooting": 56,
+      "passing": 69,
+      "dribbling": 67,
+      "defense": 87,
+      "physical": 81
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 139720,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Vincent Jean Mpoy Kompany",
+    "age": 28,
+    "potential": 86
+  },
+  {
+    "id": "fifa_153079",
+    "name": "S. Agüero",
+    "position": "ST",
+    "nationality": "Argentina",
+    "club": "Manchester City",
+    "league": "Premier League",
+    "stats": {
+      "overall": 86,
+      "pace": 88,
+      "shooting": 86,
+      "passing": 77,
+      "dribbling": 88,
+      "defense": 28,
+      "physical": 66
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 153079,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Sergio Leonel Agüero del Castillo",
+    "age": 26,
+    "potential": 87
+  },
+  {
+    "id": "fifa_176635",
+    "name": "M. Özil",
+    "position": "CAM  LW",
+    "nationality": "Germany",
+    "club": "Arsenal",
+    "league": "Premier League",
+    "stats": {
+      "overall": 86,
+      "pace": 74,
+      "shooting": 74,
+      "passing": 86,
+      "dribbling": 87,
+      "defense": 27,
+      "physical": 58
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 176635,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Mesut Özil",
+    "age": 25,
+    "potential": 87,
+    "alternatePositions": [
+      "LW"
+    ]
+  },
+  {
+    "id": "fifa_178603",
+    "name": "M. Hummels",
+    "position": "CB",
+    "nationality": "Germany",
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "stats": {
+      "overall": 86,
+      "pace": 66,
+      "shooting": 59,
+      "passing": 75,
+      "dribbling": 71,
+      "defense": 88,
+      "physical": 78
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 178603,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Mats Hummels",
+    "age": 25,
+    "potential": 88
+  },
+  {
+    "id": "fifa_183898",
+    "name": "A. Di María",
+    "position": "CAM  CM,RM",
+    "nationality": "Argentina",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "stats": {
+      "overall": 86,
+      "pace": 90,
+      "shooting": 79,
+      "passing": 83,
+      "dribbling": 87,
+      "defense": 57,
+      "physical": 71
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 183898,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Ángel Fabián Di María Hernández",
+    "age": 26,
+    "potential": 88,
+    "alternatePositions": [
+      "CM",
+      "RM"
+    ]
+  },
+  {
+    "id": "fifa_188350",
+    "name": "M. Reus",
+    "position": "LM  RM,ST,CAM",
+    "nationality": "Germany",
+    "club": "Borussia Dortmund",
+    "league": "Bundesliga",
+    "stats": {
+      "overall": 86,
+      "pace": 91,
+      "shooting": 86,
+      "passing": 84,
+      "dribbling": 86,
+      "defense": 33,
+      "physical": 65
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 188350,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Marco Reus",
+    "age": 25,
+    "potential": 88,
+    "alternatePositions": [
+      "RM",
+      "ST",
+      "CAM"
+    ]
+  },
+  {
+    "id": "fifa_189596",
+    "name": "T. Müller",
+    "position": "RM  CAM,ST,LM",
+    "nationality": "Germany",
+    "club": "FC Bayern München",
+    "league": "Bundesliga",
+    "stats": {
+      "overall": 86,
+      "pace": 81,
+      "shooting": 84,
+      "passing": 82,
+      "dribbling": 80,
+      "defense": 46,
+      "physical": 72
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 189596,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Thomas Müller",
+    "age": 24,
+    "potential": 88,
+    "alternatePositions": [
+      "CAM",
+      "ST",
+      "LM"
+    ]
+  },
+  {
+    "id": "fifa_190871",
+    "name": "Neymar",
+    "position": "LW",
+    "nationality": "Brazil",
+    "club": "FC Barcelona",
+    "league": "La Liga",
+    "stats": {
+      "overall": 86,
+      "pace": 90,
+      "shooting": 80,
+      "passing": 72,
+      "dribbling": 92,
+      "defense": 30,
+      "physical": 58
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 190871,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Neymar da Silva Santos Júnior",
+    "age": 22,
+    "potential": 91
+  },
+  {
+    "id": "fifa_192119",
+    "name": "T. Courtois",
+    "position": "GK",
+    "nationality": "Belgium",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "stats": {
+      "overall": 86
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 192119,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Thibaut Courtois",
+    "age": 22,
+    "potential": 90,
+    "goalkeeping": {
+      "diving": 84,
+      "handling": 87,
+      "kicking": 69,
+      "reflexes": 88,
+      "speed": 49,
+      "positioning": 86
+    }
+  },
+  {
+    "id": "fifa_198710",
+    "name": "J. Rodríguez",
+    "position": "CAM  RW",
+    "nationality": "Colombia",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "stats": {
+      "overall": 86,
+      "pace": 79,
+      "shooting": 80,
+      "passing": 84,
+      "dribbling": 85,
+      "defense": 40,
+      "physical": 72
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 198710,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "James David Rodríguez Rubio",
+    "age": 22,
+    "potential": 92,
+    "alternatePositions": [
+      "RW"
+    ]
+  },
+  {
+    "id": "fifa_48940",
+    "name": "P. Čech",
+    "position": "GK",
+    "nationality": "Czech Republic",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "stats": {
+      "overall": 85
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 48940,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Petr Čech",
+    "age": 32,
+    "potential": 85,
+    "goalkeeping": {
+      "diving": 83,
+      "handling": 84,
+      "kicking": 73,
+      "reflexes": 84,
+      "speed": 49,
+      "positioning": 83
+    }
+  },
+  {
+    "id": "fifa_143001",
+    "name": "C. Tévez",
+    "position": "ST  CF",
+    "nationality": "Argentina",
+    "club": "Juventus",
+    "league": "Serie A",
+    "stats": {
+      "overall": 85,
+      "pace": 86,
+      "shooting": 86,
+      "passing": 78,
+      "dribbling": 87,
+      "defense": 46,
+      "physical": 84
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 143001,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Carlos Alberto Tevez",
+    "age": 30,
+    "potential": 85,
+    "alternatePositions": [
+      "CF"
+    ]
+  },
+  {
+    "id": "fifa_165153",
+    "name": "K. Benzema",
+    "position": "ST",
+    "nationality": "France",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "stats": {
+      "overall": 85,
+      "pace": 84,
+      "shooting": 84,
+      "passing": 75,
+      "dribbling": 82,
+      "defense": 30,
+      "physical": 74
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 165153,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Karim Benzema",
+    "age": 26,
+    "potential": 87
+  },
+  {
+    "id": "fifa_167948",
+    "name": "H. Lloris",
+    "position": "GK",
+    "nationality": "France",
+    "club": "Tottenham Hotspur",
+    "league": "Premier League",
+    "stats": {
+      "overall": 85
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 167948,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Hugo Lloris",
+    "age": 27,
+    "potential": 86,
+    "goalkeeping": {
+      "diving": 86,
+      "handling": 81,
+      "kicking": 71,
+      "reflexes": 88,
+      "speed": 64,
+      "positioning": 81
+    }
+  },
+  {
+    "id": "fifa_177610",
+    "name": "Javi Martinez",
+    "position": "CB  CDM,CM",
+    "nationality": "Spain",
+    "club": "FC Bayern München",
+    "league": "Bundesliga",
+    "stats": {
+      "overall": 85,
+      "pace": 53,
+      "shooting": 61,
+      "passing": 72,
+      "dribbling": 68,
+      "defense": 84,
+      "physical": 85
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 177610,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Javier Martínez Aginaga",
+    "age": 25,
+    "potential": 86,
+    "alternatePositions": [
+      "CDM",
+      "CM"
+    ]
+  },
+  {
+    "id": "fifa_178088",
+    "name": "Juan Mata",
+    "position": "CAM  RM",
+    "nationality": "Spain",
+    "club": "Manchester United",
+    "league": "Premier League",
+    "stats": {
+      "overall": 85,
+      "pace": 74,
+      "shooting": 75,
+      "passing": 84,
+      "dribbling": 87,
+      "defense": 31,
+      "physical": 60
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 178088,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Juan Manuel Mata García",
+    "age": 26,
+    "potential": 86,
+    "alternatePositions": [
+      "RM"
+    ]
+  },
+  {
+    "id": "fifa_179813",
+    "name": "E. Cavani",
+    "position": "ST  RW",
+    "nationality": "Uruguay",
+    "club": "Paris Saint-Germain",
+    "league": "Ligue 1",
+    "stats": {
+      "overall": 85,
+      "pace": 79,
+      "shooting": 83,
+      "passing": 70,
+      "dribbling": 80,
+      "defense": 41,
+      "physical": 81
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 179813,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Edinson Roberto Cavani Gómez",
+    "age": 27,
+    "potential": 87,
+    "alternatePositions": [
+      "RW"
+    ]
+  },
+  {
+    "id": "fifa_179844",
+    "name": "Diego Costa",
+    "position": "ST",
+    "nationality": "Spain",
+    "club": "Chelsea",
+    "league": "Premier League",
+    "stats": {
+      "overall": 85,
+      "pace": 82,
+      "shooting": 83,
+      "passing": 63,
+      "dribbling": 79,
+      "defense": 40,
+      "physical": 88
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 179844,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Diego da Silva Costa",
+    "age": 25,
+    "potential": 87
+  },
+  {
+    "id": "fifa_181872",
+    "name": "A. Vidal",
+    "position": "CM  CDM",
+    "nationality": "Chile",
+    "club": "Juventus",
+    "league": "Serie A",
+    "stats": {
+      "overall": 85,
+      "pace": 78,
+      "shooting": 78,
+      "passing": 80,
+      "dribbling": 81,
+      "defense": 81,
+      "physical": 83
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 181872,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Arturo Erasmo Vidal Pardo",
+    "age": 27,
+    "potential": 87,
+    "alternatePositions": [
+      "CDM"
+    ]
+  },
+  {
+    "id": "fifa_182521",
+    "name": "T. Kroos",
+    "position": "CM  CDM,CAM",
+    "nationality": "Germany",
+    "club": "Real Madrid",
+    "league": "La Liga",
+    "stats": {
+      "overall": 85,
+      "pace": 58,
+      "shooting": 81,
+      "passing": 89,
+      "dribbling": 84,
+      "defense": 58,
+      "physical": 69
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 182521,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Toni Kroos",
+    "age": 24,
+    "potential": 88,
+    "alternatePositions": [
+      "CDM",
+      "CAM"
+    ]
+  },
+  {
+    "id": "fifa_183907",
+    "name": "J. Boateng",
+    "position": "CB  RB",
+    "nationality": "Germany",
+    "club": "FC Bayern München",
+    "league": "Bundesliga",
+    "stats": {
+      "overall": 85,
+      "pace": 77,
+      "shooting": 50,
+      "passing": 66,
+      "dribbling": 69,
+      "defense": 83,
+      "physical": 82
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 183907,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Jérôme Boateng",
+    "age": 25,
+    "potential": 86,
+    "alternatePositions": [
+      "RB"
+    ]
+  },
+  {
+    "id": "fifa_189511",
+    "name": "Sergio Busquets",
+    "position": "CDM  CM",
+    "nationality": "Spain",
+    "club": "FC Barcelona",
+    "league": "La Liga",
+    "stats": {
+      "overall": 85,
+      "pace": 56,
+      "shooting": 59,
+      "passing": 78,
+      "dribbling": 75,
+      "defense": 81,
+      "physical": 81
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 189511,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Sergio Busquets i Burgos",
+    "age": 25,
+    "potential": 89,
+    "alternatePositions": [
+      "CM"
+    ]
+  },
+  {
+    "id": "fifa_192318",
+    "name": "M. Götze",
+    "position": "CAM  CF,CM,RM",
+    "nationality": "Germany",
+    "club": "FC Bayern München",
+    "league": "Bundesliga",
+    "stats": {
+      "overall": 85,
+      "pace": 80,
+      "shooting": 74,
+      "passing": 82,
+      "dribbling": 89,
+      "defense": 35,
+      "physical": 63
+    },
+    "category": "BASIC",
+    "basePrice": 10,
+    "source": {
+      "dataset": "fifa",
+      "version": "sofifa-150002",
+      "sofifaId": 192318,
+      "importedAt": "2026-10-31T06:48:00.000Z"
+    },
+    "longName": "Mario Götze",
+    "age": 22,
+    "potential": 91,
+    "alternatePositions": [
+      "CF",
+      "CM",
+      "RM"
+    ]
+  }
+]

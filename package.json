@@ -1,0 +1,16 @@
+{
+  "name": "draft11",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "lint": "npm --prefix frontend run lint",
+    "test:e2e": "playwright test",
+    "import:players": "npm --prefix backend run import:players --",
+    "import:fut23": "npm --prefix backend run import:fut23",
+    "import:fut23:confirm": "npm --prefix backend run import:fut23:confirm",
+    "import:local-catalogue": "npm --prefix backend run import:local-catalogue"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}
